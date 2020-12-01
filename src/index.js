@@ -34,6 +34,7 @@ class Vimeo extends React.Component {
       id: this.props.video,
       width: this.props.width,
       height: this.props.height,
+      dnt: true,
       autopause: this.props.autopause,
       autoplay: this.props.autoplay,
       byline: this.props.showByline,
