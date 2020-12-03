@@ -1,5 +1,5 @@
 {
-  "name": "@u-wave/react-vimeo",
+  "name": "react-vimeo-dnt",
   "version": "0.9.1",
   "description": "Vimeo player component for React.",
   "main": "dist/react-vimeo.js",
